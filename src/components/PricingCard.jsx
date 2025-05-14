@@ -19,7 +19,7 @@ const PricingCard = ({ duration, oldPrice, newPrice, features }) => (
 
     {/* Button */}
     <a
-      href="#"
+      href="http://15.207.248.0:8080/signup"
       className="block text-center bg-blue-600 text-white py-2 rounded-full hover:bg-blue-700 transition"
     >
       Select Plan
